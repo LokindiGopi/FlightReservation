@@ -1,4 +1,4 @@
-git clone url
-cd FlightReservation
-Run the main  src/java/Main.java
-Run the Test Cases test/java/FlightServiceTest.java
+git clone url<br>
+cd FlightReservation<br>
+Run the main  src/java/Main.java<br>
+Run the Test Cases test/java/FlightServiceTest.java<br>
